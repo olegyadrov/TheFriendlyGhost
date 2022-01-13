@@ -4,6 +4,8 @@ This is a user-friendly cheat for [Phasmophobia](https://store.steampowered.com/
 
 It is my pet project. I'm doing this for fun and learning x86 assembly and Lua in the process. I play Phasmo pretty regularly, so updates are guaranteed, at least in the near future :)
 
+![screenshot](https://user-images.githubusercontent.com/6189747/149280066-dccb468a-6ccd-4eeb-a927-1ce041336389.png)
+
 ## Features
 - Teleport
 - Invincibility
