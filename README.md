@@ -10,9 +10,10 @@ It is my pet project. I'm doing this for fun and learning x86 assembly and Lua i
 - Teleport
 - Invincibility
 - Infinite stamina
+- Anti kick
 
 ## Target game version
-[Cursed Possessions | Update v0.5.1.1](https://store.steampowered.com/news/app/739630/view/3099039480050972560)
+[Cursed Possessions | Update v0.5.1.2](https://steamcommunity.com/games/739630/announcements/detail/3093411158319164614)
 
 ## How to use
 1. Launch the game
@@ -34,6 +35,7 @@ It is my pet project. I'm doing this for fun and learning x86 assembly and Lua i
 - Ctrl+Down: Step backward
 - F4: Toggle invincibility
 - F5: Toggle infinite stamina
+- F6: Toggle anti kick
 
 ## Notes
 - Teleport position values for each slot can be entered manually in the cheat window.
