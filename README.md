@@ -13,7 +13,7 @@ It is my pet project. I'm doing this for fun and learning x86 assembly and Lua i
 - Anti kick
 
 ## Target game version
-[Cursed Possessions | Update v0.5.1.2](https://steamcommunity.com/games/739630/announcements/detail/3093411158319164614)
+[Cursed Possessions | Update v0.5.2.1](https://store.steampowered.com/news/app/739630?emclan=103582791466524086&emgid=3090035994578324798)
 
 ## How to use
 1. Launch the game
